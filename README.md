@@ -30,6 +30,7 @@ DOOMSDAY-CYBERDECK-GUIDE/
 ├── diagrams_and_wiring/              # Wiring diagrams (PDF, Fritzing, images)
 ├── hardware_components/              # Build progress, schematics, renderings
 ├── documnets/                # Manuals, references, offline data info
+|-- scripts/
 ├── README.md
 
 ---
