@@ -1,0 +1,15 @@
+##  Power Configuration for Geekworm UPS
+
+### Edit EEPROM:
+```bash
+sudo rpi-eeprom-config -e
+```
+Set:
+```
+POWER_OFF_ON_HALT=1
+PSU_MAX_CURRENT=5000
+```
+Then:
+```bash
+sudo reboot
+```
