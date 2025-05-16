@@ -45,13 +45,13 @@ This is where you will store `.zim` files.
 scp "C:\Path\To\Your\wikipedia_en_all_maxi_2024-01.zim" ezio@<pi-ip>:/home/ezio/kiwix/zims/
 ```
 
-Replace `<pi-ip>` with your Pi’s IP (e.g. `192.168.254.152`), and use your Pi password when prompted.
+Replace `<pi-ip>` with your Pi’s IP (e.g. `your machine ip`), and use your Pi password when prompted.
 
 ### ✅ Option B: Use WinSCP (GUI Method)
 
 1. Download WinSCP: https://winscp.net/
 2. Connect to your Pi using:
-   - Host: `192.168.254.152`
+   - Host: `your host ip`
    - Username: `ezio`
    - Protocol: SCP
 3. Drag `.zim` files into `/home/ezio/kiwix/zims/`
@@ -91,7 +91,7 @@ http://<pi-ip>:8080
 ```
 Example:
 ```
-http://192.168.254.152:8081
+http://<your machine ip>:8081
 ```
 
 ---
@@ -312,7 +312,7 @@ sudo systemctl start kiwix
 
 * Make sure you're on the same network.
 * Firewall isn't blocking port 8081.
-* Use the Pi's actual IP address, e.g. `http://192.168.254.152:8081`.
+* Use the Pi's actual IP address, e.g. `http://<your ip>:8081`.
 
 ---
 
