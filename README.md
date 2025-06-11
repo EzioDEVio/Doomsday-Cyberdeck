@@ -1,3 +1,11 @@
+## 📹 Doomsday Cyberdeck Demo
+
+<video src="diagrams_and_wiring/Doomsday cyberdeck.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
+
+📥 [Download Video](diagrams_and_wiring/Doomsday cyberdeck.mp4)
+
 🛡️ Doomsday Cyberdeck
 The Doomsday Cyberdeck is a self-reliant, offline survival computer designed for grid-down scenarios, natural disasters, and world-changing events — inspired by the post-collapse worlds of The Division and The Last of Us. Housed in a Pelican Vault V200 hard case, this portable rig serves as a lifeline when the internet disappears, power is scarce, and information becomes your most valuable asset.
 
