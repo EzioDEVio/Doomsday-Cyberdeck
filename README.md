@@ -4,6 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/EzioDEVio/Doomsday-Cyberdeck?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/EzioDEVio/Doomsday-Cyberdeck?style=social)
 ![License](https://img.shields.io/github/license/EzioDEVio/Doomsday-Cyberdeck)
+
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-red?logo=raspberrypi)
 
 
