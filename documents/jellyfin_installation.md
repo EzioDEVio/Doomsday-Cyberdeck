@@ -68,7 +68,7 @@ Open your browser and go to:
 http://<your-pi-ip>:8096
 ```
 
-> Example: http://192.168.254.152:8096
+> Example: http://192.168.xx.xxx:8096
 
 Complete the setup wizard:
 - Create admin user
