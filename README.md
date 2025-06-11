@@ -10,7 +10,6 @@
 
 ## 📹 Doomsday Cyberdeck Demo
 
-[![Watch the demo](diagrams_and_wiring/cyberdeck-thumbnail.png)](diagrams_and_wiring/Doomsday-cyberdeck.mp4)
 
 🎬 [Click to download/view the video](diagrams_and_wiring/Doomsday-cyberdeck.mp4)
 
