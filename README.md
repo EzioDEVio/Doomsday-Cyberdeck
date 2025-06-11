@@ -1,3 +1,12 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/EzioDEVio/Doomsday-Cyberdeck)
+![GitHub last commit](https://img.shields.io/github/last-commit/EzioDEVio/Doomsday-Cyberdeck)
+![GitHub issues](https://img.shields.io/github/issues/EzioDEVio/Doomsday-Cyberdeck)
+![GitHub stars](https://img.shields.io/github/stars/EzioDEVio/Doomsday-Cyberdeck?style=social)
+![GitHub forks](https://img.shields.io/github/forks/EzioDEVio/Doomsday-Cyberdeck?style=social)
+![License](https://img.shields.io/github/license/EzioDEVio/Doomsday-Cyberdeck)
+![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-red?logo=raspberrypi)
+
+
 ## 📹 Doomsday Cyberdeck Demo
 
 [![Watch the demo](diagrams_and_wiring/cyberdeck-thumbnail.png)](diagrams_and_wiring/Doomsday-cyberdeck.mp4)
