@@ -7,7 +7,7 @@
 
 ---
 
-![CYBERDECK OFFLINE MODE SURVIVAL OPS](./images/awesome-wallpaper.png)
+![CYBERDECK OFFLINE MODE SURVIVAL OPS](./awesome-wallpaper.png)
 
 ---
 
@@ -349,5 +349,6 @@ pkill conky && DISPLAY=:0 conky -c ~/.conkyrc &
 © 2025 EzioDevio — All Rights Reserved
 
 ---
+
 
 
