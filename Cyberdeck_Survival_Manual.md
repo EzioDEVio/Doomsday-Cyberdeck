@@ -3,7 +3,7 @@
 # 📘 Cyberdeck Survival Manual
 
 **Version:** v1.0 — *Offline Systems Edition (2025)*
-**Author:** *Ezio (Mohammed Aldaraji)*
+**Author:** *EzioDevio*
 
 ---
 
@@ -346,7 +346,8 @@ pkill conky && DISPLAY=:0 conky -c ~/.conkyrc &
 ---
 
 **END OF MANUAL**
-© 2025 Ezio (Mohammed Aldaraji) — All Rights Reserved
+© 2025 EzioDevio — All Rights Reserved
 
 ---
+
 
